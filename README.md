@@ -1,6 +1,6 @@
 # Greevan Resume
 
-A new Flutter project.
+A new Flutter project. This is about my contact details .
 
 ## Getting Started
 
